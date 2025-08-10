@@ -21,6 +21,7 @@
 
 ---
 
+
 ## 🔧 Skills & Tools
 
 <div align="center">
@@ -52,18 +53,6 @@
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trailblazer09&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trailblazer09&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trailblazer09&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
-
----
-
 ## 🎯 Featured Projects
 
 | Project | Description | Tech Stack | Link |
@@ -74,6 +63,17 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trailblazer09&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trailblazer09&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trailblazer09&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+
 ### 🚀 Why Me?
 - ✅Designed and developed a full-stack Personal Expense Tracker as a hands-on project to deepen frontend–backend integration skills, using React.js (frontend) and Django (backend) to simplify daily expense management for students and individuals..
 - ✅ Solved 300+ LeetCode problems, demonstrating strong problem-solving and algorithmic thinking.
@@ -81,12 +81,23 @@
 - ✅ Actively learning system design fundamentals, exploring backend workflows, and deepening frontend development skills.
 - ✅ Proven track record in national-level competitions and open-source contributions.
 
+
+
 ---
 
 ## 🌐 Let's Connect
 
 <p align="center">
   <a href="www.linkedin.com/in/anmol-agarwal-dit/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/1348965586981490758">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+   
+  <a href="mailto:anmolagarwal407@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+
 </p>
 
 ---

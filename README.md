@@ -57,7 +57,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 💸 **Personal Expense Tracker** | Full-stack web app for managing student expenses with login, dashboard, and analytics | React, Django, Python | [View Project](https://github.com/Trailblazer09/personal-expense-tracker) |
+| 💸 **Personal Expense Tracker** | Full-stack web app for managing student expenses with login, dashboard, and analytics | React, Django, Python | [View Project](https://personal-expense-tracker-webapp.onrender.com/) |
 | 🕹️ **Tic Tac Toe Game** | Classic two-player game built with Python, featuring clean logic and terminal UI | Python | [View Project](https://github.com/Trailblazer09/Tic-Tac-Toe-game-in-Python) |
 | 🧩 **Java Layout Showcase** | Interactive frame demonstrating all major Java layout managers in one interface | Java (Swing, AWT) | [View Project](https://github.com/Trailblazer09/All-types-of-Java-Layouts-In-a-single-frame) |
 
